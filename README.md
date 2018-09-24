@@ -2,6 +2,6 @@
 
 ### Topics covered:
 
-- [x] [Data Structures](Data Structures)
-    - [x] [Stack](Data Structures/Stack.py)
-    - [x] [Queue](Data Structures/Queue.py)
+- [x] [Data Structures](Data-Structures)
+    - [x] [Stack](Data-Structures/Stack.py)
+    - [x] [Queue](Data-Structures/Queue.py)
